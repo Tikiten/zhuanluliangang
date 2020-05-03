@@ -8,7 +8,8 @@ This repository contains the source code for the paper.
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   pages={6546--6555},
   year={2018},
-}```
+}
+```
 
 ## preprocessing
 
